@@ -9,7 +9,7 @@ O objetivo do projeto de gamificação é auxiliar a empresa a alcançar determi
 * Gustavo Silva Miranda
 * Maria Clara Nascimento
 * João Vitor Oliveira Nishimoto
-* Gabriela
+* Gabriela Trindade Martins
 
 ## Professores responsáveis
 
