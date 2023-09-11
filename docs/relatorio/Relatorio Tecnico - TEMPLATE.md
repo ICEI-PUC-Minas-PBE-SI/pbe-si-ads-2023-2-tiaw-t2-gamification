@@ -5,15 +5,15 @@ O objetivo do projeto de gamificação é auxiliar a empresa a alcançar determi
 
 `SISTEMAS DE INFORMAÇÃO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 ## Participantes
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > Os membros do grupo são: 
 > - Fantine Bonfim
-> - 
+> - Emanuela Vitória Magalhães Alves
+> - Gustavo Silva Miranda
+> - João Vitor Oliveira Nishimoto
+> - Maria Clara Nascimento
+> - Gabriela Trindade Martins
 
 # Estrutura do Documento
 
@@ -54,15 +54,8 @@ O objetivo do projeto de gamificação é auxiliar a empresa a alcançar determi
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
+> A gamificação tem como objetivo resolver a falta de motivação e engajamento em determinadas atividades de trabalho.
+> Otimização de processos, coleta de dados estratégicos, redução do estresse na equipe, melhora na comunicação interna, melhora a motivação dos funcionários, impacto positivo na produtividade dos colaboradores.
 > Nesse momento, o grupo pode optar por fazer uso
 > de ferramentas como Design Thinking, que permite um olhar de ponta a
 > ponta para o problema.
@@ -363,7 +356,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > O projeto segue a seguinte convenção para o nome de branchs:
 > 
 > - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
+> - `unstable`: versão já testada do sof********************tware, porém instável
 > - `testing`: versão em testes do software
 > - `dev`: versão de desenvolvimento do software
 > 
