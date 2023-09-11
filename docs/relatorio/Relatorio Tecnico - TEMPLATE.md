@@ -1,9 +1,9 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`GAMIFICAÇÃO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O objetivo do projeto de gamificação é auxiliar a empresa a alcançar determinados objetivos de negócio, utilizando elementos e mecânicas de jogos para motivar e engajar os colaboradores, clientes ou parceiros. Através da implementação de recompensas, desafios, rankings e feedbacks, o projeto busca melhorar a produtividade, a qualidade do serviço, o relacionamento com clientes, a colaboração entre equipes, entre outros aspectos relevantes para o sucesso da empresa. A gamificação tem como intuito tornar tarefas e processos mais envolventes e divertidos, estimulando a participação ativa e proporcionando resultados positivos para a empresa.
 
-`CURSO` 
+`SISTEMAS DE INFORMAÇÃO` 
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
@@ -11,11 +11,9 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Fantine Bonfim
+> - 
 
 # Estrutura do Documento
 
