@@ -54,12 +54,8 @@ O objetivo do projeto de gamificação é auxiliar a empresa a alcançar determi
 
 ## Problema
 
-> A gamificação tem como objetivo resolver a falta de motivação e engajamento em determinadas atividades de trabalho.
-> Otimização de processos, coleta de dados estratégicos, redução do estresse na equipe, melhora na comunicação interna, melhora a motivação dos funcionários, impacto positivo na produtividade dos colaboradores.
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
+> Uma empresa quer usar a metodologia de Gamificação para engajar os funcionários, mas não há ferramenta para conseguir executar este projeto.
+
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
@@ -67,13 +63,9 @@ O objetivo do projeto de gamificação é auxiliar a empresa a alcançar determi
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
+> A gamificação tem como objetivo resolver a falta de motivação e engajamento em determinadas atividades de trabalho.
+> Otimização de processos, coleta de dados estratégicos, redução do estresse na equipe, melhora na comunicação interna, melhora a motivação dos funcionários, impacto positivo na produtividade dos colaboradores.
 > 
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
@@ -95,8 +87,6 @@ O objetivo do projeto de gamificação é auxiliar a empresa a alcançar determi
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
