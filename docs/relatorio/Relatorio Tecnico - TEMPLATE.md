@@ -51,7 +51,7 @@ O objetivo do projeto de gamificação é auxiliar a empresa a alcançar determi
 
 
 # Introdução
-
+A gamificação, ou o uso de elementos e mecânicas de jogos em contextos não relacionados a jogos, tem se tornado uma estratégia cada vez mais popular em empresas de diversos segmentos. Essa abordagem visa engajar e motivar colaboradores por meio de desafios, recompensas e competições, buscando melhorar o desempenho e o envolvimento dos funcionários com as atividades da empresa. Com a gamificação, é possível tornar tarefas rotineiras mais interessantes, criar um senso de comunidade entre os colaboradores e incentivar o aprendizado contínuo. Exploraremos os benefícios da gamificação na empresa e como ela pode ser implementada de forma eficiente.
 ## Problema
 
 > Uma empresa quer usar a metodologia de Gamificação para engajar os funcionários, mas não há ferramenta para conseguir executar este projeto.
@@ -63,7 +63,6 @@ O objetivo do projeto de gamificação é auxiliar a empresa a alcançar determi
 
 ## Objetivos
 
-
 > A gamificação tem como objetivo resolver a falta de motivação e engajamento em determinadas atividades de trabalho.
 > Otimização de processos, coleta de dados estratégicos, redução do estresse na equipe, melhora na comunicação interna, melhora a motivação dos funcionários, impacto positivo na produtividade dos colaboradores.
 > 
@@ -72,10 +71,9 @@ O objetivo do projeto de gamificação é auxiliar a empresa a alcançar determi
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> A gamificação tem se tornado uma abordagem cada vez mais relevante nas organizações, pois permite envolver e engajar os colaboradores de uma maneira lúdica e divertida. Ao transformar tarefas e atividades do ambiente de trabalho em desafios e recompensas, a gamificação estimula a competitividade saudável, promove a colaboração e aumenta a produtividade. Além disso, ao utilizar elementos de jogos, como pontuações, rankings e avanços de níveis, a gamificação incentiva a motivação intrínseca, fornecendo feedback constante e recompensando o esforço e o progresso dos colaboradores. Dessa forma, trabalhar com gamificação proporciona uma experiência de trabalho mais envolvente e prazerosa, contribuindo para a satisfação e a retenção de talentos, bem como para o alcance dos objetivos organizacionais.
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
+> Indique as razões pelas quais você escolheu seus
 > objetivos específicos ou as razões para aprofundar em certos aspectos
 > do software.
 > 
@@ -88,17 +86,10 @@ O objetivo do projeto de gamificação é auxiliar a empresa a alcançar determi
 
 ## Público-Alvo
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
+> Profissionais em treinamento: Esses usuários podem incluir funcionários de empresas que estão participando de programas de treinamento ou desenvolvimento. Eles podem ter conhecimentos prévios sobre o assunto específico do treinamento, mas podem precisar de incentivo extra para se envolver ativamente e absorver o conteúdo de forma eficaz. Eles podem ser mais motivados por recompensas tangíveis, como promoções ou benefícios no local de trabalho.
+
+> Líderes e gestores: Esses usuários podem estar interessados em usar a gamificação para motivar e envolver suas equipes no trabalho ou em outros contextos. Eles podem ter uma compreensão básica de como a gamificação pode ser aplicada para incentivar o desempenho e alcançar metas. Eles podem estar procurando maneiras de melhorar a produtividade, o trabalho em equipe e o engajamento de sua equipe.
+
 > **Links Úteis**:
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
