@@ -64,7 +64,7 @@ A gamificação, ou o uso de elementos e mecânicas de jogos em contextos não r
 ## Objetivos
 
 > O nosso projeto tem como objetivo resolver a falta de motivação e engajamento em determinadas atividades de trabalho.
-> Otimização de processos, coleta de dados estratégicos, redução do estresse na equipe, melhora na comunicação interna, melhora a motivação dos funcionários, impacto positivo na produtividade dos colaboradores.
+> Otimização de processos, coleta de dados estratégicos, redução do estresse na equipe, melhora na comunicação interna, melhora na motivação dos funcionários, impacto positivo na produtividade dos colaboradores criando um ambiente de trabalho mais interativo e divertido.
 > 
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
