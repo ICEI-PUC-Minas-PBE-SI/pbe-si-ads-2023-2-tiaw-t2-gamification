@@ -104,7 +104,7 @@ A gamificação, ou o uso de elementos e mecânicas de jogos em contextos não r
 
 ## Personas e Mapas de Empatia
 Segue abaixo as perssonas: 
-!(images/1.png)
+![Personas](images/1.png)
 mapas de empatia:
 https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gamification/blob/3afc6ca891aa65e1c19c5d5f0d2b54303aec7791/Mapas%20de%20Empatia.pdf
 
