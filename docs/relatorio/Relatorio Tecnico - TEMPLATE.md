@@ -127,16 +127,23 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O sistema deve fazer cadastro de Usuário (ADM e FUNCIONÁRIO) | ALTA | 
+|RF-002| O sistema deve conter lista de Tarefas e Objetivos           | ALTA |
+|RF-003| O sistema deve conter Sistema de Pontuação e Ranking         | ALTA |
+|RF-004| O sistema deve conter  Sistema de Recompensas                | ALTA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| A interface deve cumprir com a paleta de cores da empresa | MÉDIA | 
+|RNF-002| A interface deve ser simples e de fácil compreensão para os funcionário |  ALTA | 
+|RNF-003| O Sistema deve ser compatível com Notebooks e Smartphones |  ALTA |
+|RNF-004| O Sistema deve ser de fácil manutenção e atualização |  ALTA |
+|RNF-005|O Sistema deve ser sustentavel: Minimizar o consumo de recursos, como energia e largura de banda |  MÉDIA |
+|RNF-006| O Sistema deve ser  rápido e de fácil acesso |  ALTA |
+|RNF-006| O Sistema deve conter Segurança de dados|  ALTA |
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
@@ -167,7 +174,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|02| O projeto deve ser desenvolvido por até 6 pessoas     |
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
