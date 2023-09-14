@@ -63,7 +63,7 @@ A gamificação, ou o uso de elementos e mecânicas de jogos em contextos não r
 
 ## Objetivos
 
-> A gamificação tem como objetivo resolver a falta de motivação e engajamento em determinadas atividades de trabalho.
+> O nosso projeto de gamificação tem como objetivo resolver a falta de motivação e engajamento em determinadas atividades de trabalho.
 > Otimização de processos, coleta de dados estratégicos, redução do estresse na equipe, melhora na comunicação interna, melhora a motivação dos funcionários, impacto positivo na produtividade dos colaboradores.
 > 
 > **Links Úteis**:
