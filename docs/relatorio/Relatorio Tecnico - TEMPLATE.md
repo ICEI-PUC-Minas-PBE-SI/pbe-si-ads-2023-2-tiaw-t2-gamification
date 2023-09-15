@@ -1,7 +1,7 @@
 # Informações do Projeto
-`GAMIFICAÇÃO`  
+`SGN-Start Gamification Now`  
+O Start Gamification Now - SGN, é um aplicativo de gerenciamento de tarefas que incorpora elementos de gamificação para tornar o processo de organização e conclusão de tarefas mais divertido e motivador. Através da implementação de recompensas, desafios, rankings e feedbacks, o projeto busca melhorar a produtividade, a qualidade do serviço, o relacionamento com clientes, a colaboração entre equipes, entre outros aspectos relevantes para o sucesso da empresa. O objetivo é ajudar os usuários a aumentar sua produtividade, alcançar metas pessoais e profissionais e transformar o gerenciamento de tarefas em uma experiência envolvente.
 
-O objetivo do projeto de gamificação é auxiliar a empresa a alcançar determinados objetivos de negócio, utilizando elementos e mecânicas de jogos para motivar e engajar os colaboradores, clientes ou parceiros. Através da implementação de recompensas, desafios, rankings e feedbacks, o projeto busca melhorar a produtividade, a qualidade do serviço, o relacionamento com clientes, a colaboração entre equipes, entre outros aspectos relevantes para o sucesso da empresa. A gamificação tem como intuito tornar tarefas e processos mais envolventes e divertidos, estimulando a participação ativa e proporcionando resultados positivos para a empresa.
 
 `SISTEMAS DE INFORMAÇÃO` 
 
@@ -51,7 +51,9 @@ O objetivo do projeto de gamificação é auxiliar a empresa a alcançar determi
 
 
 # Introdução
-A gamificação, ou o uso de elementos e mecânicas de jogos em contextos não relacionados a jogos, tem se tornado uma estratégia cada vez mais popular em empresas de diversos segmentos. Essa abordagem visa engajar e motivar colaboradores por meio de desafios, recompensas e competições, buscando melhorar o desempenho e o envolvimento dos funcionários com as atividades da empresa. Com a gamificação, é possível tornar tarefas rotineiras mais interessantes, criar um senso de comunidade entre os colaboradores e incentivar o aprendizado contínuo. Exploraremos os benefícios da gamificação na empresa e como ela pode ser implementada de forma eficiente.
+Em um mundo cada vez mais dinâmico e acelerado, o desafio de gerenciar tarefas e manter-se produtivo nunca foi tão relevante. Diariamente, somos bombardeados por uma infinidade de responsabilidades, metas pessoais e profissionais, e é fácil sentir-se sobrecarregado. Mas e se pudéssemos transformar o ato de realizar tarefas em uma jornada envolvente e motivadora?
+É com esse propósito que apresentamos o nosso projeto: o "TaskQuest - Gerenciador de Tarefas com Gamificação". Imagine um aplicativo que não apenas ajuda você a organizar sua vida, mas também o incentiva a conquistar suas metas de maneira empolgante. Este projeto combina a eficiência do gerenciamento de tarefas com os elementos envolventes dos jogos para criar uma experiência única e altamente produtiva.
+Nossa missão é redefinir a maneira como as pessoas abordam suas tarefas diárias, transformando a procrastinação em progresso, a procrastinação em produtividade e o estresse em diversão. Embarque nesta jornada conosco enquanto exploramos como o TaskQuest pode ajudar você a alcançar mais, com menos esforço, e tornar o gerenciamento de tarefas uma aventura que você deseja embarcar todos os dias. Prepare-se para transformar suas tarefas em missões, seus objetivos em conquistas e sua vida em uma verdadeira "quest" de produtividade!
 ## Problema
 
 > Uma empresa quer usar a metodologia de Gamificação para engajar os funcionários, mas não há ferramenta para conseguir executar este projeto.
