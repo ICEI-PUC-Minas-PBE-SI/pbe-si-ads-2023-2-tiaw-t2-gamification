@@ -176,7 +176,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 >
 > **Exemplo**:
 > 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+> ![UserFlow](images/users.png)
 
 
 ## Wireframes
@@ -188,7 +188,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > páginas. Um wireframe web é uma ilustração semelhante ao
 > layout de elementos fundamentais na interface.
 > 
-> ![wireframes](images/wireframes.png)
+> ![wireframes](images/wireframes.jpeg)
 
 
 # Metodologia
