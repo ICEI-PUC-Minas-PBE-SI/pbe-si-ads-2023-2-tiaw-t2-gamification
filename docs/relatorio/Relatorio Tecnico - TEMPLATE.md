@@ -155,11 +155,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
-
+> As principais interfaces da nossa solução são a página de login, a página em que irá ficar o gerenciamento de tarefas(para que o usuário saiba quais tarefas estão pendentes, em execução ou se já foram concluídas, e também o perfil do usuário, que é onde ele irá consultar sua pontuação e suas tarefas concluidas ou em falta.
+> 
 ## User Flow
 
 > Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
