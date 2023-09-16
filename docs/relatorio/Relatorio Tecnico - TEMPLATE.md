@@ -153,8 +153,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
-
 > As principais interfaces da nossa solução são a página de login, a página em que irá ficar o gerenciamento de tarefas(para que o usuário saiba quais tarefas estão pendentes, em execução ou se já foram concluídas, e também o perfil do usuário, que é onde ele irá consultar sua pontuação e suas tarefas concluidas ou em falta.
 > 
 ## User Flow
