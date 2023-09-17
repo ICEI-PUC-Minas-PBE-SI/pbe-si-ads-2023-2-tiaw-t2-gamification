@@ -115,7 +115,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 > realizar a especificações do projeto
 
 ## Personas e Mapas de Empatia
-Segue abaixo as perssonas: 
+Segue abaixo as personas:
 ![Personas](images/1.png)
 ![Personas](images/2.png)
 ![Personas](images/3.png)
