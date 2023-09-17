@@ -56,7 +56,17 @@ Em um mundo cada vez mais dinâmico e acelerado, o desafio de gerenciar tarefas 
 Nossa missão é redefinir a maneira como as pessoas abordam suas tarefas diárias, transformando a procrastinação em progresso, a procrastinação em produtividade e o estresse em diversão. Embarque nesta jornada conosco enquanto exploramos como o SGN pode ajudar você a alcançar mais, com menos esforço, e tornar o gerenciamento de tarefas uma aventura que você deseja embarcar todos os dias. Prepare-se para transformar suas tarefas em missões, seus objetivos em conquistas e sua vida em uma verdadeira "jogada" de produtividade!
 ## Problema
 
-> Uma empresa quer usar a metodologia de Gamificação para engajar os funcionários, mas não há ferramenta para conseguir executar este projeto.
+> Em um cenário empresarial desafiador, uma organização enfrenta uma série de problemas que afetam sua eficiência e produtividade. Esses problemas abrangem várias áreas críticas, incluindo engajamento dos funcionários, motivação, comunicação interna e colaboração entre equipes.
+
+Baixo Engajamento dos Funcionários: Um dos problemas mais urgentes é o baixo engajamento dos funcionários. Muitos colaboradores demonstram falta de entusiasmo e comprometimento com suas tarefas diárias. Isso resulta em uma queda na produtividade e na qualidade do trabalho, afetando a saúde geral da empresa.
+
+Falta de Motivação para Realizar Tarefas: Além do engajamento, a falta de motivação é evidente. Os funcionários parecem desmotivados e não encontram significado em suas atividades. Isso cria um ambiente de trabalho onde o progresso é lento e as metas são difíceis de alcançar.
+
+Comunicação Interna Ineficaz: A comunicação interna é outro desafio crítico. As informações não fluem eficazmente entre departamentos e equipes, resultando em mal-entendidos, duplicação de esforços e falta de alinhamento. Isso leva a projetos atrasados e erros evitáveis.
+
+Falta de Colaboração entre Equipes: A colaboração entre equipes é fundamental para o sucesso de qualquer empresa, mas neste cenário, há uma falta de colaboração eficaz. As equipes operam em silos, não compartilhando conhecimento ou recursos de maneira eficiente. Isso prejudica a inovação e a resolução de problemas complexos.
+
+Para superar esses desafios, a empresa precisa adotar uma abordagem estratégica. A gamificação pode ser uma solução eficaz para impulsionar o engajamento dos funcionários e a motivação, tornando as tarefas do dia a dia mais envolventes e gratificantes. Além disso, a gamificação pode ser estendida à comunicação interna, incentivando os funcionários a compartilhar informações e colaborar de maneira mais eficaz. Ao reconhecer e recompensar as contribuições valiosas, a empresa pode criar um ambiente mais produtivo e colaborativo, abordando assim esses desafios fundamentais e promovendo um ambiente de trabalho mais saudável e eficiente.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -70,7 +80,13 @@ Nossa missão é redefinir a maneira como as pessoas abordam suas tarefas diári
 
 ## Justificativa
 
-> A gamificação tem se tornado uma abordagem cada vez mais relevante nas organizações, pois permite envolver e engajar os colaboradores de uma maneira lúdica e divertida. Ao transformar tarefas e atividades do ambiente de trabalho em desafios e recompensas, a gamificação estimula a competitividade saudável, promove a colaboração e aumenta a produtividade. Além disso, ao utilizar elementos de jogos, como pontuações, rankings e avanços de níveis, a gamificação incentiva a motivação intrínseca, fornecendo feedback constante e recompensando o esforço e o progresso dos colaboradores. Dessa forma, trabalhar com gamificação proporciona uma experiência de trabalho mais envolvente e prazerosa, contribuindo para a satisfação e a retenção de talentos, bem como para o alcance dos objetivos organizacionais.
+>A empresa, na qual dois membros do nosso grupo são colaboradores, identificou uma oportunidade há muito tempo desejada, mas até então não realizada: a implementação de um projeto de gamificação. Esta decisão reflete a visão da empresa em criar um ambiente de trabalho mais engajador e motivador para seus funcionários.
+
+Segundo pesquisa feita pela Talent LMS:
+- 89% dos funcionários se sentem mais produtivos e felizes com recursos gamificados no trabalho;
+- 83% daqueles que recebem treinamento gamificado se sentem motivados, enquanto 61% dos que receberam treinamentos convencionais se sentem entediados e improdutivos;
+- 89% acreditam que seriam mais produtivos caso sua rotina profissional fosse mais gamificada;
+- 78% afirmam que a gamificação em processos de recrutamento torna a empresa mais desejável de se trabalhar.
 
 > Indique as razões pelas quais você escolheu seus
 > objetivos específicos ou as razões para aprofundar em certos aspectos
