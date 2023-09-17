@@ -54,9 +54,10 @@ O Start Gamification Now - SGN, é um aplicativo de gerenciamento de tarefas que
 Em um mundo cada vez mais dinâmico e acelerado, o desafio de gerenciar tarefas e manter-se produtivo nunca foi tão relevante. Diariamente, somos bombardeados por uma infinidade de responsabilidades, metas pessoais e profissionais, e é fácil sentir-se sobrecarregado. Mas e se pudéssemos transformar o ato de realizar tarefas em uma jornada envolvente e motivadora?
 É com esse propósito que apresentamos o nosso projeto: o "SGN - Start Gamification Now". Imagine um aplicativo que não apenas ajuda você a organizar sua vida, mas também o incentiva a conquistar suas metas de maneira empolgante. Este projeto combina a eficiência do gerenciamento de tarefas com os elementos envolventes dos jogos para criar uma experiência única e altamente produtiva.
 Nossa missão é redefinir a maneira como as pessoas abordam suas tarefas diárias, transformando a procrastinação em progresso, a procrastinação em produtividade e o estresse em diversão. Embarque nesta jornada conosco enquanto exploramos como o SGN pode ajudar você a alcançar mais, com menos esforço, e tornar o gerenciamento de tarefas uma aventura que você deseja embarcar todos os dias. Prepare-se para transformar suas tarefas em missões, seus objetivos em conquistas e sua vida em uma verdadeira "jogada" de produtividade!
+
 ## Problema
 
-> Em um cenário empresarial desafiador, uma organização enfrenta uma série de problemas que afetam sua eficiência e produtividade. Esses problemas abrangem várias áreas críticas, incluindo engajamento dos funcionários, motivação, comunicação interna e colaboração entre equipes.
+Em um cenário empresarial desafiador, uma organização enfrenta uma série de problemas que afetam sua eficiência e produtividade. Esses problemas abrangem várias áreas críticas, incluindo engajamento dos funcionários, motivação, comunicação interna e colaboração entre equipes.
 
 Baixo Engajamento dos Funcionários: Um dos problemas mais urgentes é o baixo engajamento dos funcionários. Muitos colaboradores demonstram falta de entusiasmo e comprometimento com suas tarefas diárias. Isso resulta em uma queda na produtividade e na qualidade do trabalho, afetando a saúde geral da empresa.
 
@@ -80,7 +81,7 @@ Para superar esses desafios, a empresa precisa adotar uma abordagem estratégica
 
 ## Justificativa
 
->A empresa, na qual dois membros do nosso grupo são colaboradores, identificou uma oportunidade há muito tempo desejada, mas até então não realizada: a implementação de um projeto de gamificação. Esta decisão reflete a visão da empresa em criar um ambiente de trabalho mais engajador e motivador para seus funcionários.
+A empresa, na qual dois membros do nosso grupo são colaboradores, identificou uma oportunidade há muito tempo desejada, mas até então não realizada: a implementação de um projeto de gamificação. Esta decisão reflete a visão da empresa em criar um ambiente de trabalho mais engajador e motivador para seus funcionários.
 
 Segundo pesquisa feita pela Talent LMS:
 - 89% dos funcionários se sentem mais produtivos e felizes com recursos gamificados no trabalho;
@@ -107,7 +108,7 @@ Segundo pesquisa feita pela Talent LMS:
 
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foram consolidados com a participação dos usuários, por meio de entrevistas com o dono da Engetak e pela experiência de dois membros do grupo que trabalham dentro da empresa. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
@@ -194,7 +195,13 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Primeiramente, foi criado um grupo no WhatsApp para facilitar a comunicação dos integrantes do grupo. Posteriormente, foi feita uma reunião inicial onde um dos membros apresentou a ideia, as expectitivas e um escopo de como seria o projeto. Cada um mostrou suas habilidades e dividimos em partes: Código, Estratégia e Design. Usaremos o VSCode para codificação do projeto, o Discord para reuniões e alinhamentos Online e o Notion para a divisão de tarefas e visualizador de problemas e soluções.
+
+O quadro kanban do grupo no Notion está disponível através da URL https://concrete-viscose-e91.notion.site/41a70623dfcc4075af9a4ba62acd67ac?v=4686fcedd3054d05981c88b2bb2b09db
+
+![image](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gamification/assets/124185690/6e9e3a8b-c996-48c7-9e63-f3a8511ae801)
+
+
 
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
