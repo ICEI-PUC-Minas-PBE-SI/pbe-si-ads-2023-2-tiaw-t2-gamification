@@ -122,13 +122,16 @@ Segue abaixo as personas:
 ![Personas](images/4.png)
 ![Personas](images/5.png)
 ![Personas](images/6.png)
-mapas de empatia:
+
+Mapas de empatia:
+Os mapas de empatia estão armazenados no link abaixo: 
 https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gamification/blob/3afc6ca891aa65e1c19c5d5f0d2b54303aec7791/Mapas%20de%20Empatia.pdf
 
 
 ## Histórias de Usuários
 
 Segue as histórias de usuarios: 
+As histórias de usuarios estãon armazanadas no link abaixo: 
 https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t2-gamification/blob/c39f96f1078b767c616799f11e567257dffde04a/docs/historiadeusuario%20(1).pdf
 
 ## Requisitos
