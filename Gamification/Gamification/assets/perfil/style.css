@@ -1,0 +1,243 @@
+  main {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+  }
+    
+  .profile,
+  .user-info,
+  .edit-info {
+    background-color: #fff;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    flex: 1;
+    margin: 10px;
+    max-width: 380px;
+
+}
+
+  .user-info .medalha {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 10px;
+  }
+  
+  .user-info a {
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .user-info a:hover {
+    color: #555;
+  }
+  
+  .edit-info form {
+    text-align: left;
+  }
+  
+  .edit-info label {
+    display: block;
+    margin: 10px 0;
+  }
+  
+  .edit-info input {
+    width: 90%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .edit-info button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto; /* Centraliza o botão */
+  }
+  body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  header h1 {
+    font-size: 24spx;
+  }
+  
+  main {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+  }
+  
+  .profile {
+    background-color: #fff;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    flex: 1;
+    margin: 10px;
+  }
+  
+  .profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 10px;
+  }
+  
+  .task-history {
+    background-color: #fff;
+    text-align: left;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    flex: 2;
+    margin: 10px;
+  }
+  
+  .task-history h3 {
+    font-size: 18px;
+  }
+  
+  .task-history ul {
+    list-style: none;
+  }
+  
+  .task-history li {
+    margin-bottom: 10px;
+  }
+  
+  .task-history strong {
+    font-weight: bold;
+  }
+  
+  /* Estilo para links */
+  a {
+    color: #6ad9cf;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  a:hover {
+    color: #6ad9cf;
+  }
+  
+  /* Reset de estilos padrão */
+body, h1, h2, p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilo global da página */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+}
+}
+
+h1 {
+  font-size: 28px;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.profile {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.profile img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 5px solid #6ad9cf;
+}
+
+.profile h2 {
+  font-size: 24px;
+  margin: 10px 0;
+}
+
+.profile p {
+  font-size: 16px;
+}
+
+rewards h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+li strong {
+  font-weight: bold;
+}
+
+a {
+  display: inline-block;
+  padding: 5px 10px;
+  color: black;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+a:hover {
+  background-color: #6ad9cf;
+}
+
+  /* Navbar */
+   .navbar {
+    background-color: #43bfb7;
+    overflow: hidden;
+   }
+
+   .navbar .logo {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+   }
+
+   .navbar .menu {
+    float: right;
+    list-style-type: none;
+   }
+
+   .navbar .menu li {
+    float: left;
+   }
+
+   .navbar .menu li a {
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+   }

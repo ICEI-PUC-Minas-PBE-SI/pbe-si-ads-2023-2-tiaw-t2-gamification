@@ -1,0 +1,39 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+  /* Navbar */
+   .navbar {
+    background-color: #43bfb7;
+    overflow: hidden;
+   }
+
+   .navbar .logo {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+   }
+
+   .navbar .menu {
+    float: right;
+    list-style-type: none;
+   }
+
+   .navbar .menu li {
+    float: left;
+   }
+
+   .navbar .menu li a {
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+   }

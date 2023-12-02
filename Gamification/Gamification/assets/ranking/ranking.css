@@ -1,0 +1,17 @@
+:root{
+    --engetak-green-color: #43bfb7;
+    --engetak-dark-green-color: #1e837c;
+}
+
+.btn-primary{
+    background-color: var(--engetak-green-color);
+
+}
+
+.btn-primary:hover{
+    background-color: var(--engetak-dark-green-color);
+}
+
+.titulo-pagina{
+    color: var(--engetak-green-color); 
+}
