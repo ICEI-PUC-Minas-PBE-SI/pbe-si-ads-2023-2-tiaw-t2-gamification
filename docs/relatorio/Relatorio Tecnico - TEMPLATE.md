@@ -224,7 +224,12 @@ O quadro kanban do grupo no Notion está disponível através da URL https://con
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Emanuela Alves -
+Fantine Bonfim - Desenvolvimento da págiina de perfil 
+Gabriela Trindade - 
+Gustavo Miranda -
+Maria Clara Nascimento -
+João Vitor Nishimoto -
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
@@ -235,7 +240,8 @@ O quadro kanban do grupo no Notion está disponível através da URL https://con
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+
+
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
@@ -250,10 +256,10 @@ O quadro kanban do grupo no Notion está disponível através da URL https://con
 > 
 > As ferramentas empregadas no projeto são:
 > 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
+> - Visual Studio Code
+> - Repl.it
+> - Notion
+> - Git Hub
 > 
 > O editor de código foi escolhido porque ele possui uma integração com o
 > sistema de versão. As ferramentas de comunicação utilizadas possuem
@@ -310,21 +316,12 @@ O quadro kanban do grupo no Notion está disponível através da URL https://con
 ......  COLOQUE AQUI O SEU TEXTO ......
 
 ## Tecnologias Utilizadas
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+> HTML 
+> CSS
+> JS
+> JSON
+> JSONServer
+> localStorage
 
 ## Arquitetura da solução
 
@@ -348,45 +345,30 @@ O quadro kanban do grupo no Notion está disponível através da URL https://con
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+
+Utilizamos a empresa Engetak para testar a plataforma. Deixamos em ativa por
+1 semana e explicamos como utilizar. Encontramos dificuldades, pois alguns
+usuários estavam desaparecendo, e algumas pessoas estavam clicando mais de uma 
+vez nas tarefas e pegando mais pontos do que deviam, e alguns sem querer. Outro
+problema foi no cadastro de usuário, pois colocamos uma função no botão errado,
+mas rapidamente resolvemos o problema.
 
 ## Ferramentas de Testes (Opcional)
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Utilizamos o VSCode para testar e fomos dando reset na página, junto com o 
+console.log para identificarmos problemas. 
 
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
-
+Durante o período de testes, o maior problema foi na gestão do banco de dados
+e a manipulação dos objetos. Objetos sumindo, alterando de forma incorreta e
+adição de objetos a mais. Um outro problema, foi a escrita em json, que desgastou
+bastante, pois o banco de dados não funcionava. Fomos executando testes até que
+conseguimos chegar em um ponto estável, e criamos uma cópia do arquivo em .zip.
+No final, conseguimos manipular, adicionando, alterando e deletando usuários.
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+Utilizamos o método de Gamificação da empresa ioasys como referência
