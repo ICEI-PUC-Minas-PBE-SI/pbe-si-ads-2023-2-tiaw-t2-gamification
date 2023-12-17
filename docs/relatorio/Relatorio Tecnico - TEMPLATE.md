@@ -69,11 +69,6 @@ Falta de Colaboração entre Equipes: A colaboração entre equipes é fundament
 
 Para superar esses desafios, a empresa precisa adotar uma abordagem estratégica. A gamificação pode ser uma solução eficaz para impulsionar o engajamento dos funcionários e a motivação, tornando as tarefas do dia a dia mais envolventes e gratificantes. Além disso, a gamificação pode ser estendida à comunicação interna, incentivando os funcionários a compartilhar informações e colaborar de maneira mais eficaz. Ao reconhecer e recompensar as contribuições valiosas, a empresa pode criar um ambiente mais produtivo e colaborativo, abordando assim esses desafios fundamentais e promovendo um ambiente de trabalho mais saudável e eficiente.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
 > O nosso projeto tem como objetivo resolver a falta de motivação e engajamento em determinadas atividades de trabalho.
@@ -97,8 +92,6 @@ Segundo pesquisa feita pela Talent LMS:
 > dados estatísticos, que podem ser apresentados, com o objetivo de
 > esclarecer detalhes do problema que será abordado pelo grupo.
 >
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
@@ -154,7 +147,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| A interface deve cumprir com a paleta de cores da empresa | MÉDIA | 
 |RNF-002| A interface deve ser simples e de fácil compreensão para os funcionário |  ALTA | 
-|RNF-003| O Sistema deve ser compatível com Notebooks e Smartphones |  ALTA |
+|RNF-003| O Sistema deve ser compatível com Notebooks|  ALTA |
 |RNF-004| O Sistema deve ser de fácil manutenção e atualização |  ALTA |
 |RNF-005|O Sistema deve ser sustentavel: Minimizar o consumo de recursos, como energia e largura de banda |  MÉDIA |
 |RNF-006| O Sistema deve ser  rápido e de fácil acesso |  ALTA |
@@ -177,21 +170,13 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > 
 ## User Flow
 
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
 > **Exemplo**:
 > ![UserFlow](images/users.png)
 
 
 ## Wireframes
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
+
 > 
 > ![wireframes](images/wireframes.jpeg)
 
@@ -206,36 +191,15 @@ O quadro kanban do grupo no Notion está disponível através da URL https://con
 
 
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ## Divisão de Papéis
 
-Emanuela Alves -
+Emanuela Alves - Desenvolvimento da págiina de login
 Fantine Bonfim - Desenvolvimento da págiina de perfil 
-Gabriela Trindade - 
-Gustavo Miranda -
-Maria Clara Nascimento -
-João Vitor Nishimoto -
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Gabriela Trindade - Desenvolvimento da págiina de tarefas
+Gustavo Miranda - Desenvolvimento da págiina de ranking
+Maria Clara Nascimento - Desenvolvimento da págiina de perfil
+João Vitor Nishimoto - Desenvolvimento da págiina de recompensas
 
 
 ## Ferramentas
@@ -250,10 +214,6 @@ João Vitor Nishimoto -
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
 |Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
 
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
 > As ferramentas empregadas no projeto são:
 > 
 > - Visual Studio Code
@@ -266,12 +226,6 @@ João Vitor Nishimoto -
 > integração semelhante e por isso foram selecionadas. Por fim, para criar
 > diagramas utilizamos essa ferramenta por melhor captar as
 > necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
 
 ## Controle de Versão
 
