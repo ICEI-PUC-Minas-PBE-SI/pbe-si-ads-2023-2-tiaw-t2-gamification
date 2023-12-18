@@ -205,8 +205,6 @@ João Vitor Nishimoto - Desenvolvimento da págiina de recompensas
 ## Ferramentas
 
 
-
-
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
@@ -229,12 +227,7 @@ João Vitor Nishimoto - Desenvolvimento da págiina de recompensas
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
 > A ferramenta de controle de versão adotada no projeto foi o
 > [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
 > foi utilizado para hospedagem do repositório `upstream`.
@@ -252,22 +245,13 @@ João Vitor Nishimoto - Desenvolvimento da págiina de recompensas
 > - `bugfix`: uma funcionalidade encontra-se com problemas
 > - `enhancement`: uma funcionalidade precisa ser melhorada
 > - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O projeto consiste na criação de um site com elementos de jogos para motivar e engajar os usuários. Com funcionalidades de cadastro, desafios, sistema de pontuação e recompensas, o site visa oferecer uma experiência interativa e envolvente. Utilizando tecnologias de ponta, além de estratégias de teste, feedback e segurança, a meta é desenvolver uma plataforma atrativa e funcional. Considerações como marketing, monetização e planos para futuras melhorias também estão contempladas no projeto.
 
 ## Tecnologias Utilizadas
 > HTML 
@@ -279,27 +263,15 @@ João Vitor Nishimoto - Desenvolvimento da págiina de recompensas
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
-
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+> Desenvolvemos as funcionalidades em JavaScript e utilizamos um banco de dados para armazenar usuários, tarefas e recompensas.
 
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+> Enfrentamos desafios com a utilização de banco de dados, resultando na mudança para JSONServer devido à expertise adquirida na matéria de diw.
+> A inexperiência resultou em dificuldades ao escrever em JSON, levando-nos a enfrentar falhas no banco de dados.
 
 ## Plano de Testes
-
-
 
 Utilizamos a empresa Engetak para testar a plataforma. Deixamos em ativa por
 1 semana e explicamos como utilizar. Encontramos dificuldades, pois alguns
